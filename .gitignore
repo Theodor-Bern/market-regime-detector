@@ -205,3 +205,7 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+FRED_API_KEY=0237fc8486b2b3f269a34da8144a0941 echo .env
+data/
+__pycache__/
+*.pyc
